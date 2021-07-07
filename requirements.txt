@@ -1,0 +1,3 @@
+graphviz==0.16
+multipledispatch==0.6.0
+pygame==2.0.1
